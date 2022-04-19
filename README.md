@@ -24,7 +24,8 @@
 
 ## About me
 
-#### I'am web developer with focus to backend utilizing php.
+- I am web developer with focus to backend using php.
+- I am from Brazil 🇧🇷.
 
 ## Tools and Technologys
 
