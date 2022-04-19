@@ -3,7 +3,7 @@
 <div align="center">
   <img width="350px" src="https://user-images.githubusercontent.com/53622768/164069595-8315eef0-18d5-42c4-aae2-647347f08343.png"/>
   
-  <div style="margin:5000px;">
+  <div>
     <a href="https://github.com/fabiocantarelli">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
@@ -11,10 +11,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>
+  
 </div>
 
 <div align="center">
-  <a href="https://github.com/pablofilipe">
+  <a href="https://github.com/fabiocantarelli">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiocantarelli&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocantarelli&theme=dark&hide_border=false&&layout=compact"/>
   </a>
