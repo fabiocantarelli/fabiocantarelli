@@ -2,10 +2,16 @@
 
 <div align="center">
   <img width="350px" src="https://user-images.githubusercontent.com/53622768/164069595-8315eef0-18d5-42c4-aae2-647347f08343.png"/>
+  
+  <div style="margin:5000px;">
+    <a href="https://github.com/fabiocantarelli">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/fabio-augusto-cantarelli-7a0b341a3">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </div>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-cantarelli-7a0b341a3)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabiocantarelli)
 
 <div align="center">
   <a href="https://github.com/pablofilipe">
@@ -31,4 +37,5 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Docker-1793D1?style=for-the-badge&logo=docker&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Shell_script-282E34?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/RabbitMQ-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
