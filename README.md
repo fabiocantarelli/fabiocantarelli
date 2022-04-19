@@ -1,7 +1,7 @@
 ## Hi, my name is Fabio Augusto Cantarelli! 👋
 
 <div align="center">
-  <img width="350px" src="https://user-images.githubusercontent.com/53622768/164069595-8315eef0-18d5-42c4-aae2-647347f08343.png"/>
+  <img width="350px" src="https://user-images.githubusercontent.com/53622768/164076399-e1f35c73-36f7-453b-a39d-68d2773d1f47.png"/>
   
   <div>
     <a href="https://github.com/fabiocantarelli">
