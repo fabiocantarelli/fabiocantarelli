@@ -40,3 +40,11 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Shell_script-282E34?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/RabbitMQ-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
+
+
+<div align="center">
+  <h2>Counter of curious:</h2>
+  <p align="center" dir="auto"> 
+    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667"><img src="https://profile-counter.glitch.me/fabiocantarelli/count.svg" data-canonical-src="https://profile-counter.glitch.me/fabiocantarelli/count.svg" style="max-width: 100%;"></a>
+  </p>
+</div>
