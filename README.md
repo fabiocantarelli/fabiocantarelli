@@ -41,6 +41,7 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Shell_script-282E34?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/RabbitMQ-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Symfony-282E34?style=for-the-badge&logo=symfony&logoColor=white">
 </div>
 
 
