@@ -1,4 +1,4 @@
-## Hi my name is Fabio Augusto Cantarelli! 👋
+## Hi, my name is Fabio Augusto Cantarelli! 👋
 
 <div align="center">
   <img width="350px" src="https://user-images.githubusercontent.com/53622768/164069595-8315eef0-18d5-42c4-aae2-647347f08343.png"/>
