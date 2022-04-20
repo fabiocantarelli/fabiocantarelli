@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/fabiocantarelli">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiocantarelli&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocantarelli&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiocantarelli&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocantarelli&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
