@@ -42,9 +42,11 @@
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&amp;logo=phpstorm&amp;logoColor=black&amp;color=black&amp;labelColor=darkorchid" style="max-width: 100%;">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Docker-1793D1?style=for-the-badge&logo=docker&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Shell_script-282E34?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/RabbitMQ-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Symfony-282E34?style=for-the-badge&logo=symfony&logoColor=white">
@@ -54,6 +56,7 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
 ## ❤️ Interests and curiosities
