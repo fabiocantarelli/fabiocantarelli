@@ -24,12 +24,12 @@
   </a>
 </div>
 
-## About me
+## About me 👨‍💻❔
 
 - I am web developer with focus to backend using php.
 - I am from Brazil 🇧🇷.
 
-## Tools and Technologys
+## 🛠️ Tools and 💻 Technologys
 
 <div align="center" style="display: inline_block">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -56,7 +56,7 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-## Interests and curiosities
+## ❤️ Interests and curiosities
 
 <div align="center" style="display: inline_block">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
@@ -67,7 +67,7 @@
 
 
 <div align="center">
-  <h2>Counter of curious:</h2>
+  <h2>👀 Counter of curious:</h2>
   <p align="center" dir="auto"> 
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667"><img src="https://profile-counter.glitch.me/fabiocantarelli/count.svg" data-canonical-src="https://profile-counter.glitch.me/fabiocantarelli/count.svg" style="max-width: 100%;"></a>
   </p>
