@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/version-1.0.0-green">
+
 ## Hi, my name is Fabio Augusto Cantarelli! 👋
 
 <div align="center">
