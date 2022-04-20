@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/version-1.0.0-green">
 
-## Hi, my name is Fabio Augusto Cantarelli! 👋
+## Hi, my name is Fabio Augusto Cantarelli! <img src="https://c.tenor.com/e1ptzT0C0x4AAAAi/hi.gif" width="3%" />
 
 <div align="center">
   <img width="350px" src="https://user-images.githubusercontent.com/53622768/164076399-e1f35c73-36f7-453b-a39d-68d2773d1f47.png"/>
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-## About me 👨‍💻❔
+## 👨‍💻 About me❔
 
 - I am web developer with focus to backend using php.
 - I am from Brazil 🇧🇷.
