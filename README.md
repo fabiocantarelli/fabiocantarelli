@@ -48,7 +48,12 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Shell_script-282E34?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/RabbitMQ-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Symfony-282E34?style=for-the-badge&logo=symfony&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Twig-282E34?style=for-the-badge&logo=twig&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 ## Interests and curiosities
