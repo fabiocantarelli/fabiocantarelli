@@ -29,6 +29,11 @@
 - I am web developer with focus to backend using php.
 - I am from Brazil 🇧🇷.
 
+## 🌐 Languages
+
+- 🇺🇸 English: Intermediary
+- 🇧🇷 Portuguese (Brazilian): Native fluent
+
 ## 🛠️ Tools and 💻 Technologys
 
 <div align="center" style="display: inline_block">
