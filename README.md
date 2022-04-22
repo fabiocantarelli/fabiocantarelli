@@ -65,6 +65,13 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
 
+## 📖 Learning
+
+<div align="center" style="display: inline_block">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
+
 ## ❤️ Interests and curiosities
 
 <div align="center" style="display: inline_block">
