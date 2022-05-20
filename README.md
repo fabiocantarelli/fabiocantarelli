@@ -85,6 +85,8 @@
 
 <div style="display: inline_block">
     <img alt="HTML5" width="10%" src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg">
+    <img alt="HTML5" width="10%" src="https://images-na.ssl-images-amazon.com/images/I/41-sN-mzwKL._SX381_BO1,204,203,200_.jpg">
+    <img alt="HTML5" width="10%" src="https://images-na.ssl-images-amazon.com/images/I/41NLRXYNQdL._SX258_BO1,204,203,200_QL70_ML2_.jpg">
 </div>
 
 <div align="center">
