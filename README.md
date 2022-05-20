@@ -81,6 +81,11 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Hacking-1A1A1A?style=for-the-badge&logo=Hackaday&logoColor=white">
 </div>
 
+<h2>📚 Books i'm reading</h2>
+
+<div style="display: inline_block">
+    <img alt="HTML5" width="15%" src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg">
+</div>
 
 <div align="center">
   <h2>👀 Counter of curious:</h2>
