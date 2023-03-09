@@ -63,6 +63,7 @@
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Google Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </div>
 
 <h2>📖 Learning</h2>
