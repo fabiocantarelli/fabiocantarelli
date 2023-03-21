@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&amp;logo=phpstorm&amp;logoColor=black&amp;color=black&amp;labelColor=darkorchid" style="max-width: 100%;">
-    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img alt="HTML5" aling="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
